@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this file is created in master branch
+=======
+file created in bugfix branch
+>>>>>>> bugfix
